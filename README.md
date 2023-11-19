@@ -1,10 +1,23 @@
-# changing div to semantic element
+# Discription
 
-# in this challage I have changed the div to semantic element.
 
-the reason for the changes for the div to semantic is because it helps read and scan the HTML. it helps reader to easily catigorize the structure of the HTML. 
+# Installation
+Open the web app through our link here:
 
-# Screenshot
 
-# Deployed Link
-https://github.com/YacobMn/horisean.git
+Then just press play!
+# Usage 
+
+
+youtube: 
+
+# Credits 
+
+Yacob Menghistu
+github link: https://github.com/YacobMn
+
+# License 
+This project is licensed under the MIT License. Feel free to explore, contribute, and share this platform with other antique enthusiasts!
+
+MIT License Details:
+https://choosealicense.com/licenses/mit/
